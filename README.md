@@ -2,7 +2,7 @@
 
 Proyecto final de la asignatura **Matemáticas IV** (2do año, Ingeniería en Inteligencia Artificial, UNSTA). Se desarrolla un análisis completo de los circuitos **RC**, **RL** y **RLC** en serie: modelado físico mediante las Leyes de Kirchhoff, deducción y resolución analítica de sus ecuaciones diferenciales ordinarias (EDO), y simulación numérica con el **método de Euler** en Python.
 
-> 📄 Informe completo: [`PROYECTO_FINAL_-_GRUPO_1_-_Mat_IV.pdf`](docs/PROYECTO_FINAL_-_GRUPO_1_-_Mat_IV.pdf)
+> 📄 Informe completo: [`PROYECTO_FINAL_-_GRUPO_1_-_Mat_IV.pdf`](PROYECTO_FINAL_-_GRUPO_1_-_Mat_IV.pdf)
 > 
 > 📓 Simulaciones: [`SIMULACIONES_Grupo_1_Mat_IV.ipynb`](SIMULACIONES_Grupo_1_Mat_IV.ipynb)
 > 
