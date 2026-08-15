@@ -6,7 +6,7 @@ Proyecto final de la asignatura **Matemáticas IV** (2do año, Ingeniería en In
 > 
 > 📓 Simulaciones: [`SIMULACIONES_Grupo_1_Mat_IV.ipynb`](SIMULACIONES_Grupo_1_Mat_IV.ipynb)
 > 
-> 📋 Consigna: [`circuito.pdf`](docs/circuito.pdf)
+> 📋 Consigna: [`circuito.pdf`](circuito.pdf)
 
 ## Equipo
 
